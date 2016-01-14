@@ -4,7 +4,7 @@ Quick Start
 Install
 -------
 
-This package is available on `PyPI`_ and `Crate.io`_.
+This package is available on `PyPI`_.
 
 Install from PyPI with ``pip``:
 
@@ -13,7 +13,6 @@ Install from PyPI with ``pip``:
     $ pip install django-simple-history
 
 .. _pypi: https://pypi.python.org/pypi/django-simple-history/
-.. _crate.io: https://crate.io/packages/django-simple-history/
 
 
 Configure
